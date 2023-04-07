@@ -44,3 +44,7 @@ To send version/changes to to github
 To check remote url 
 
 -->git remote -v
+
+...
+done
+...
